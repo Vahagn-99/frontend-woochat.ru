@@ -1,0 +1,13 @@
+@import './base.css';
+@import '/node_modules/flowbite-vue/dist/index.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box{
+    box-shadow: 0 3px 5px #0000000b;
+    background-color: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.6rem;
+}
